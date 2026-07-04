@@ -11,7 +11,7 @@ The assessment has been organized into separate repositories for each task.
 | **Task 01 – Java Programming** | https://github.com/GovindiTharshika/DecodeLabs-Internship |
 | **Task 02 – Backend REST API (Node.js, Express, MongoDB)** | https://github.com/GovindiTharshika/DecodeLabs-Project02 |
 | **Task 03 – Full Stack Blog Application** | https://github.com/GovindiTharshika/DecodeLabs-Project03 |
-| **Task 04 – Additional Task** | https://github.com/GovindiTharshika/DecodeLabs-Project04 |
+| **Task 04 – Frontend & Backend Integration** | https://github.com/GovindiTharshika/DecodeLabs-Project04 |
 
 ## Technologies Used
 
